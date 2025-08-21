@@ -10,13 +10,13 @@ basic_info:
 
     # Your full name
     first_name: Santi
-    last_name: 
+    last_name: Izquierdo
     
     # Define yourself in 4-5 words
-    motto: I like saving the world
+    motto: I like music, movies, and food. Not necessarily in that order.
     
     # Focus
-    focus: Killing Bad Boys
+    focus: learn and learn and repeat.
     
     # You have 1 paragraph to make a great impression, summarize your career
     summary: |
@@ -49,13 +49,10 @@ basic_info:
     # Languages you speak, levels include: Native, Professional
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     # Interests or hobbies
     interests:
